@@ -1,0 +1,13 @@
+﻿Ohjelmassa voi luoda tilejä sekä lisätä ja nostaa rahaa olemassa olevalta tililtä.
+Tilejä on kahta tyyppiä, käyttötilejä ja säästötilejä. Molemmille voi lisätä rahaa, mutta vain käyttötililtä saa nostaa rahaa.
+Ohjelmassa on myös yleinen säästöpossu, johon voi laittaa rahaa, mutta sen syömää rahamäärää ei pääse näkemään mistään eikä 
+sieltä voi ottaa rahaa pois. (tässä ei ole mitään järkeä, tiedän)
+Ohjelmassa voi myös tarkastella kaikkien tilien rahamääriä.
+
+Kun ohjelma käynnistyy, konsolille tulostuu valikko, josta valitaan kirjaimia käyttäen haluttu toiminto. 
+Vastauksissa voi käyttää isoja tai pieniä kirjaimia.
+
+Kun luodaan uusi tili, määritetään, onko se käyttötili vai säästötili. Säästötilille määritetään säästötavoite, jonka saavuttamisesta sitten onnitellaan. 
+Tilin luonnin yhteydessä ei voi lisätä rahaa, vaan lisäys pitää tehdä omana toimintonaan.
+
+Seurataan konsolin ohjeita.
