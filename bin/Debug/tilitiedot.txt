@@ -1,0 +1,7 @@
+Kalle:käyttötili
+Milja:käyttötili
+Milja:säästötili
+mä:mun tili
+Risto:säästötili
+Ville:villen käyttötili
+sun:säästötili
