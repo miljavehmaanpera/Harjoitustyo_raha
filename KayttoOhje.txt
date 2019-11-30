@@ -1,4 +1,6 @@
-﻿Ohjelmassa voi luoda tilejä sekä lisätä ja nostaa rahaa olemassa olevalta tililtä.
+﻿Ohjelma ei toimi ilman tekstitiedostoja.
+ 
+ Ohjelmassa voi luoda tilejä sekä lisätä ja nostaa rahaa olemassa olevalta tililtä.
 Tilejä on kahta tyyppiä, käyttötilejä ja säästötilejä. Molemmille voi lisätä rahaa, mutta vain käyttötililtä saa nostaa rahaa.
 Ohjelmassa on myös yleinen säästöpossu, johon voi laittaa rahaa, mutta sen syömää rahamäärää ei pääse näkemään mistään eikä 
 sieltä voi ottaa rahaa pois. (tässä ei ole mitään järkeä, tiedän)
